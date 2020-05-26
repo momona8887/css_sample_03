@@ -1,0 +1,33 @@
+body {
+    background-color: lightcoral;
+}
+
+#container {
+    width: 700px;
+    margin: auto;
+    background-color: mistyrose;
+}
+
+header {
+    padding: 40px;
+    height: 60px;
+    color: salmon;
+}
+
+nav {
+    padding: 10px 50px;
+    background-color: darksalmon;
+    color: cornsilk;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 30px;
+    background-color : indianred;
+    color: cornsilk;
+}
